@@ -1,4 +1,4 @@
-"blogs.tennisnow.com OR "+
+  "blogs.tennisnow.com OR "+
   "oroinc.com OR "+
   "myspace.com OR "+
   "4shared.com OR "+
@@ -42,5 +42,29 @@
   "worldofantiquesinc.com OR "+
   "targus.com OR "+
   "amazon.com OR "+
+  "mailer-daemon@googlemail.com OR "+
+  "backblaze.com OR "+
+  "webmaster.yandex.ru OR "+
+  "weewx-user@googlegroups.com OR "+
+  "noreply-dmarc-support@google.com OR "+
+  "wordpress@apexvalue.com OR "+
+  "flickr.com OR "+
+  "yandex-team.ru OR "+
+  "no-reply@accounts.google.com OR "+
+  "uvdesk.in OR "+
+  "cloudcannon.com OR "+
+  "skype.com OR "+
+  "zoho-inventory.com OR "+
+  "raob.com OR "+
+  "MAILER-DAEMON@mail.wexpress.com.ph OR "+
+  "support@namecheap.com OR "+
+  "sc-noreply@google.com OR "+
+  "feedback@service.alibaba.com OR "+
+  "Mailer-Daemon@premium94.web-hosting.com OR "+
+  "chris@chrisducker.com OR "+
+  "premium94.web-hosting.com OR "+
+  "no-reply@fastcomet.com OR "+
+  "iintoo.com OR "+
+  "oberlo.com OR "+
   "expediamail.com OR "+
   "linkedin.com "
